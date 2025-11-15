@@ -38,7 +38,7 @@ const Hero = () => {
               size="lg"
               variant="secondary"
               className="gap-2 hover:scale-105 transition-transform"
-              onClick={() => window.open("https://drive.usercontent.google.com/download?id=1Lx3TBSUcoMmVOrsE_vsQKh2rd6A4dTb7&export=download&authuser=0&confirm=t&uuid=aa8b6393-86d8-450d-852b-8696ca701a75&at=ALWLOp7LUXPLmJclOolq0E2BSYjT:1763202472372", "_blank")}
+              onClick={() => window.open("https://drive.usercontent.google.com/download?id=1ZlBhC5W692yONF0deBGq20rte9agC_f9&export=download&authuser=0&confirm=t&uuid=ac5a8f57-b825-4706-b7e4-457c89dc0a2b&at=ALWLOp47HRuTWc78L8RWeLPFiSMv:1763205952030", "_blank")}
             >
               <Download className="h-5 w-5" />
               Download CV
