@@ -26,10 +26,10 @@ const Hero = () => {
             Abdelghafar Nagy Ahmed
           </h1>
           <p className="text-2xl md:text-3xl text-primary-foreground/90 font-medium mb-6">
-            Data Entry Clerk
+            Data Entry
           </p>
           <p className="text-lg md:text-xl text-primary-foreground/80 max-w-3xl mx-auto mb-10 leading-relaxed">
-            I am a reliable and accurate data entry clerk with strong computer skills and technical background in web development. I excel at managing, organizing, and validating data with a high level of precision.
+            I am a reliable and accurate data entry with strong computer skills and technical background in web development. I excel at managing, organizing, and validating data with a high level of precision.
           </p>
 
           {/* CTA Buttons */}
@@ -38,7 +38,7 @@ const Hero = () => {
               size="lg"
               variant="secondary"
               className="gap-2 hover:scale-105 transition-transform"
-              onClick={() => window.open("https://drive.usercontent.google.com/download?id=1ZlBhC5W692yONF0deBGq20rte9agC_f9&export=download&authuser=0&confirm=t&uuid=ac5a8f57-b825-4706-b7e4-457c89dc0a2b&at=ALWLOp47HRuTWc78L8RWeLPFiSMv:1763205952030", "_blank")}
+              onClick={() => window.open("https://drive.google.com/file/d/1--VWJ_j4KGKnBLC1u16EWqm8zYFd1_Op/view?usp=drive_link", "_blank")}
             >
               <Download className="h-5 w-5" />
               Download CV
