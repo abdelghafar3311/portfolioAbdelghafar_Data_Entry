@@ -38,7 +38,7 @@ const Hero = () => {
               size="lg"
               variant="secondary"
               className="gap-2 hover:scale-105 transition-transform"
-              onClick={() => window.open("https://drive.google.com/file/d/1lWuQ3z_EDlGQwKc1lM4b41Ih97dK0ci0/view?usp=sharing", "_blank")}
+              onClick={() => window.open("https://drive.google.com/file/d/1P2tUr1Nif28tfx6VNbv8jMWAdvEry_Uq/view?usp=drive_link", "_blank")}
             >
               <Download className="h-5 w-5" />
               Download CV
